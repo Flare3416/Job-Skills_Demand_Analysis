@@ -43,11 +43,16 @@ If you move the notebooks into another folder, update the relative paths in the 
 
 | Notebook | Focus |
 | --- | --- |
-| `Analysis/EDA_Intro.ipynb` | General exploratory analysis across the dataset |
-| `Analysis/Skills_Demand.ipynb` | Skill demand across the top 3 data roles |
-| `Analysis/Skills_Trend.ipynb` | Trending skills over time for Data Analysts |
-| `Analysis/Salary_Analysis.ipynb` | Salary comparisons by role and skill |
-| `Analysis/Optimal_Skill.ipynb` | Best skill to learn based on demand and salary |
+| `Analysis/EDA_Intro.ipynb` | 
+General exploratory analysis across the dataset |
+| `Analysis/Skills_Demand.ipynb` | 
+Skill demand across the top 3 data roles |
+| `Analysis/Skills_Trend.ipynb` | 
+Trending skills over time for Data Analysts |
+| `Analysis/Salary_Analysis.ipynb` | 
+Salary comparisons by role and skill |
+| `Analysis/Optimal_Skill.ipynb` | 
+Best skill to learn based on demand and salary |
 
 ## The Analysis
 
