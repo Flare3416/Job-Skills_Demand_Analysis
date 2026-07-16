@@ -52,16 +52,19 @@ If you move the notebooks into another folder, update the relative paths in the 
 ## The Analysis
 
 ### 1. Top Job Roles
+ 
+![Top job roles](Images/0_top_job_roles.png)
 
-![Top 3 job roles](Images/1_top_3_job_roles.png)
-
-*Top 3 most common data job roles by posting volume.*
+*Most common data job roles by posting volume.*
 
 **Insights:**
 - Data Analyst, Data Scientist, and Data Engineer are the most frequently posted data roles.
 - Each role draws on a distinct core skill set, setting up the skill-demand comparison in the next notebook.
 
 ### 2. Skill Demand for Top Roles
+![Skill demand for top 3 job roles](Images/1_top_3_job_roles.png)
+
+*Top skills requested for the top 3 most common data job roles.*
 
 **Insights:**
 - SQL leads demand for Data Analyst and Data Scientist roles.
