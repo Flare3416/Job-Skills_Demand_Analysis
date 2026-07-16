@@ -35,7 +35,7 @@ To run the notebooks locally, place the CSV in the `data/` folder at this path:
 
 You can download the data folder here:
 
-https://www.mediafire.com/folder/wsppysi593aki/data
+https://www.mediafire.com/file/qhc56tq90ljw99z/data_jobs.csv/file   
 
 If you move the notebooks into another folder, update the relative paths in the loading cells.
 
