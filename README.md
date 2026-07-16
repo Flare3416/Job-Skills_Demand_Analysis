@@ -71,6 +71,7 @@ If you move the notebooks into another folder, update the relative paths in the 
 ### 3. Trending Skills for Data Analysts
 
 ![Trending skills for Data Analysts](Images/2_trending_skills_da.png)
+
 *Monthly trend of top skills requested in Data Analyst postings.*
 
 **Insights:**
@@ -81,9 +82,11 @@ If you move the notebooks into another folder, update the relative paths in the 
 ### 4. Salary Analysis
 
 ![Salary distribution box plot](Images/3_salary_distribution_box_plot.png)
+
 *Salary distribution across the top data job titles.*
 
 ![Highest paid skills for Data Analysts](Images/4_highest_paid_skill_da.png)
+
 *Highest-paid vs. most in-demand skills for Data Analysts.*
 
 **Insights:**
@@ -94,6 +97,7 @@ If you move the notebooks into another folder, update the relative paths in the 
 ### 5. Most Optimal Skills to Learn
 
 ![Most optimal skill scatter plot](Images/5_optimal_skill_scatter_plot.png)
+
 *Skills plotted by demand (%) vs. median salary, colored by technology category.*
 
 **Insights:**
